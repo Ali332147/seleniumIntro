@@ -27,13 +27,3 @@ Feature: To test in login functionality
     Then user navigating home page
 
   
-  #Scenario Outline: check login successfully with valid credentil
-    #Given user is on login page
-    #When users enter <username> & <password>
-    #And click on login button
-    #Then user navigating home page
-#
-    #Examples: 
-      #| username  | password|
-      #| name1 | pass1| 
-      #| name2 | pass2| 
